@@ -1,0 +1,4 @@
+include ':rebound-core', ':myapplication'
+include ':rebound-android'
+include ':rebound-android-example'
+include ':rebound-android-playground'

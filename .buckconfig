@@ -1,0 +1,10 @@
+[alias]
+  android    = //rebound-android:src
+  app        = //rebound-android-example:bin
+  core       = //rebound-core:src
+  playground = //rebound-android-playground:bin
+  rebound    = //:rebound
+  test       = //rebound-core:test
+
+[project]
+  ignore = .git
